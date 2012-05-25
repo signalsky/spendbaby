@@ -1,0 +1,2 @@
+run:
+python setup.py [start|stop]
